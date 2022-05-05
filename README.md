@@ -12,7 +12,7 @@
 - Git clone repository
 
 	```bash
-	git clone https://github.com/qanghaa/Netflix-Backend-Clone
+	git clone https://github.com/qanghaa/Movies-Project.git
 	```
 - Dependencies Installation
 
