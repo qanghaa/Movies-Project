@@ -1,15 +1,24 @@
 # Movies Back-end 
 
-## Document: 
-https://documenter.getpostman.com/view/15522883/UyrBkGai
+# Description
+
+**Movies Back-end API, follows Restful API standard with features similar to real movies website.**	
+
+**Features:** Routing, Middleware, Sending responses, Authentication, CRUD operations, Security, Sending email and Uploading files
+
+**Document:** [here](https://documenter.getpostman.com/view/15522883/UyrBkGai)
 
 ## Usage
 - Git clone repository
 
-	`git clone https://github.com/qanghaa/Netflix-Backend-Clone`
+	```bash
+	git clone https://github.com/qanghaa/Netflix-Backend-Clone
+	```
 - Dependencies Installation
 
-	`npm install`
+	```bash
+	npm install
+	```
 - Configuration Server
 
 	create `config.env` file
@@ -30,3 +39,9 @@ https://documenter.getpostman.com/view/15522883/UyrBkGai
 	JWT_EXPIRES_IN=90d
 	JWT_COOKIE_EXPIRES_IN=90
 	```
+- Run server
+
+	```bash
+	npm start
+	```
+
